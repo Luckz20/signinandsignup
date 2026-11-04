@@ -6,7 +6,6 @@
         private System.ComponentModel.IContainer components = null;
 
      
-        /// <param name="disposing"
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
